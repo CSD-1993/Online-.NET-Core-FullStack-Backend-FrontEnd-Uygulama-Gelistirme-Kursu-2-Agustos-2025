@@ -8,145 +8,145 @@
 
 * Request ve Response Manipülasyonları
 
-*Dependency Inversion, Inversion Of Control
+* Dependency Inversion, Inversion Of Control
 
-*Dependency Injection
+* Dependency Injection
 
-*Repository, UnitOfWork kalıpları
+* Repository, UnitOfWork kalıpları
 
-*Razor sentaksı
+* Razor sentaksı
 
-*MVC (Model ViewController) kalıbı
+* MVC (Model ViewController) kalıbı
 
-*Razor Engine ve Razor sentaksı
+* Razor Engine ve Razor sentaksı
 
-*Dinamik tür sistemi ve Expando Nesneler
+* Dinamik tür sistemi ve Expando Nesneler
 
-*Transfer Data (ViewBag, ViewData, TempData)
+* Transfer Data (ViewBag, ViewData, TempData)
 
-*Tag Helper’lar, Validasyon, HTML Helper’lar
+* Tag Helper’lar, Validasyon, HTML Helper’lar
 
-*Blazor Framework
+* Blazor Framework
 
-*Entity Framework Core ile veritabanı işlemleri
+* Entity Framework Core ile veritabanı işlemleri
 
-*Authentication, Authorization, Oauth
+* Authentication, Authorization, Oauth
 
-*WebAPI ile Rest Servislerin Yazılması
+* WebAPI ile Rest Servislerin Yazılması
 
-*JWT (Json Web Token)
+* JWT (Json Web Token)
 
-*CQRS Paterni
+* CQRS Paterni
 
-*Mikroservis Mimarisi
+* Mikroservis Mimarisi
 
-*Cookie, Session
+* Cookie, Session
 
-*Onion Architecture
+* Onion Architecture
 
-*RabbitMQ, MSMQ gibi mesaj kuyruklama altyapılarının kullanımı
+* RabbitMQ, MSMQ gibi mesaj kuyruklama altyapılarının kullanımı
 
-*ASP.NET Core 9 ile Gelen Yeni Özellikler
+* ASP.NET Core 9 ile Gelen Yeni Özellikler
 
 * __2) FrontEnd Tarafı__
 
-*Temel HTML ve CSS konularının gözden geçirilmesi
+* Temel HTML ve CSS konularının gözden geçirilmesi
 
-*BootStrap CSS Framework’ü
+* BootStrap CSS Framework’ü
 
-*JavaScript
+* JavaScript
 
-*Bu kısımda JavaScript isimli script (betik) dili üzerinde durulacaktır.
+* Bu kısımda JavaScript isimli script (betik) dili üzerinde durulacaktır.
 
-*Veri türleri ve Dinamik Tür Sistemi
+* Veri türleri ve Dinamik Tür Sistemi
 
-*Tür dönüşümleri
+* Tür dönüşümleri
 
-*Fonksiyonlar
+* Fonksiyonlar
 
-*Akış kontrol mekanizmaları, Döngüler
+* Akış kontrol mekanizmaları, Döngüler
 
-*JavaScript ile Nesne Yönelimli Programlama
+* JavaScript ile Nesne Yönelimli Programlama
 
-*Fonksiyonlar
+* Fonksiyonlar
 
-*Diziler
+* Diziler
 
-*Lambda ifadeleri
+* Lambda ifadeleri
 
-*Prototype kavramı
+* Prototype kavramı
 
-*import bildirimleri
+* import bildirimleri
 
-*Çalışma zamanı hatalarının yakalanması
+* Çalışma zamanı hatalarının yakalanması
 
-*React.js
+* React.js
 
-*Dosya, Dizin Organizasyonu
+* Dosya, Dizin Organizasyonu
 
-*Komponent Oluşturmak
+* Komponent Oluşturmak
 
-*React Hooks (Callback, Reducer)
+* React Hooks (Callback, Reducer)
 
-*Navigasyon
+* Navigasyon
 
-*Material UI bileşenleri
+* Material UI bileşenleri
 
-*Flexbox
+* Flexbox
 
-*Durum Yönetimi
+* Durum Yönetimi
 
-*Context API ve Redux Toolkit
+* Context API ve Redux Toolkit
 
-*JSX, Props
+* JSX, Props
 
-*Vue.js
+* Vue.js
 
-*Fonksiyonlar
+* Fonksiyonlar
 
-*V-html, V-Once, VBind
+* V-html, V-Once, VBind
 
-*Event Binding, Modifier
+* Event Binding, Modifier
 
-*Two Way Binding
+* Two Way Binding
 
-*Computed, Watchers
+* Computed, Watchers
 
-*js’de CSS sınıfları
+* js’de CSS sınıfları
 
-*CLI
+* CLI
 
-*Form ve Komponentler
+* Form ve Komponentler
 
-*Yaşam Döngüsü
+* Yaşam Döngüsü
 
-*Routing, Props
+* Routing, Props
 
-*Angular
+* Angular
 
-*Ng Direktifleri (Ngİf, NgFor, …)
+* Ng Direktifleri (Ngİf, NgFor, …)
 
-*Angular form işlemleri
+* Angular form işlemleri
 
-*Pipe, Routing
+* Pipe, Routing
 
-*Lazy Loading, Eager Loading
+* Lazy Loading, Eager Loading
 
-*RxJS Observable
+* RxJS Observable
 
-*ServiceWorker
+* ServiceWorker
 
-*Event Binding
+* Event Binding
 
-*Property Binding
+* Property Binding
 
-*Interpolation
+* Interpolation
 
-*Change Eventleri
+* Change Eventleri
 
-*Angular Material Component’leri
+* Angular Material Component’leri
 
-*ve diğerleri.
+* ve diğerleri.
 
 # Kursa Kayıt
 [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.]()
