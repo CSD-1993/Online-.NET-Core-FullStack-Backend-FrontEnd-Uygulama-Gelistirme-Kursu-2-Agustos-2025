@@ -1,4 +1,4 @@
-# Online-.NET-Core-FullStack-Backend-FrontEnd-Uygulama-Gelistirme-Kursu-26-Nisan-2025
+# Online .NET Core FullStack Backend FrontEnd Uygulama Gelistirme Kursu 26 Nisan 2025
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından Sistem Bilgisayar İşbirliği ile düzenlenmektedir. 
 
