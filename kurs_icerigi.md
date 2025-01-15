@@ -2,7 +2,7 @@
 
  __Kurs konularından bazıları aşağıdadır__
  
-+ __1) BackEnd Tarafı__
+## 1) BackEnd Tarafı
 
 * Middleware kavramı
 
@@ -48,7 +48,7 @@
 
 * ASP.NET Core 9 ile Gelen Yeni Özellikler
 
-* __2) FrontEnd Tarafı__
+## 2) FrontEnd Tarafı
 
 * Temel HTML ve CSS konularının gözden geçirilmesi
 
