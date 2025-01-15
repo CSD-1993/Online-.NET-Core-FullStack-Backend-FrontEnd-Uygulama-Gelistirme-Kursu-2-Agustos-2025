@@ -4,9 +4,9 @@
  
 * __1) BackEnd Tarafı__
 
-*Middleware kavramı
+* Middleware kavramı
 
-*Request ve Response Manipülasyonları
+* Request ve Response Manipülasyonları
 
 *Dependency Inversion, Inversion Of Control
 
