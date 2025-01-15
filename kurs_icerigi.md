@@ -2,7 +2,7 @@
 
  __Kurs konularından bazıları aşağıdadır__
  
-* __1) BackEnd Tarafı__
++ __1) BackEnd Tarafı__
 
 * Middleware kavramı
 
