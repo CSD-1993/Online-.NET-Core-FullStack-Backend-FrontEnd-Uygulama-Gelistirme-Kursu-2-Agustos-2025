@@ -17,7 +17,7 @@ Daha önce C# ile Nesne Yönelimli Programlama konusunda çalışma yapmış olm
 Programın toplam süresi __160__ saattir. 
 
 ## Ders Günleri ve Saatleri
-Dersler __Cumartesi - Pazar__ günleri saat __09-30 – 13-30__ saatleri arasında __4__'er saat olarak yapılacaktır.
+Dersler __Cumartesi - Pazar__ günleri saat __09:30 – 13:30__ saatleri arasında __4__'er saat olarak yapılacaktır.
 
 ## Eğitim İçeriği
 __[Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/CSD-1993/Online-.NET-Core-FullStack-Backend-FrontEnd-Uygulama-Gelistirme-Kursu-26-Nisan-2025/blob/main/kurs_icerigi.md)__
