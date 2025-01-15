@@ -1,7 +1,7 @@
-# Online C# ile Nesne Yonelimli Programlama Kursu 24 Mart 2025- <br> -  (160 saat)
+# Online-.NET-Core-FullStack-Backend-FrontEnd-Uygulama-Gelistirme-Kursu-26-Nisan-2025 (160 saat)
 
-* __Kurs konularından bazıları aşağıdadır__
-* 
+ __Kurs konularından bazıları aşağıdadır__
+ 
 * __1) BackEnd Tarafı__
 
 *Middleware kavramı
