@@ -1,6 +1,6 @@
 # Online-.NET-Core-FullStack-Backend-FrontEnd-Uygulama-Gelistirme-Kursu-26-Nisan-2025 (160 saat)
 
- __Kurs konularından bazıları aşağıdadır__
+ __Kurs konularından bazıları aşağıdadır:__
  
 ## 1) BackEnd Tarafı
 
