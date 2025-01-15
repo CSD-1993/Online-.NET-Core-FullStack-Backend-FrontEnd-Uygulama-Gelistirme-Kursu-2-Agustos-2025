@@ -5,7 +5,9 @@
 * __1) BackEnd Tarafı__
 
 *Middleware kavramı
+
 *Request ve Response Manipülasyonları
+
 *Dependency Inversion, Inversion Of Control
 *Dependency Injection
 *Repository, UnitOfWork kalıpları
