@@ -149,5 +149,5 @@
 * ve diğerleri.
 
 # Kursa Kayıt
-[Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.]()
+[Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us06web.zoom.us/meeting/register/nKMLiPOpQYyam29teFdCWw#/registration)
 
