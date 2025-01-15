@@ -11,19 +11,19 @@
 + Backend tarafında ASP.NET Core, frontend tarafında ise JavaScript, TypeScript, Vue.js, React, Angular, BootStrap gibi araçların kullanımı anlatılacaktır.
 
 ## Ön Koşul
-Daha önce C# ile Nesne Yönelimli Programlama konusunda çalışma yapmış olmak ya da C ve Sistem Programcıları Derneği’nin açmış olduğu C# ile Nesne Yönelimli Programlama kursuna katılmış olmak.
++ Daha önce C# ile Nesne Yönelimli Programlama konusunda çalışma yapmış olmak ya da C ve Sistem Programcıları Derneği’nin açmış olduğu C# ile Nesne Yönelimli Programlama kursuna katılmış olmak.
 
 ## Eğitim Süresi
-Programın toplam süresi __160__ saattir. 
++ Programın toplam süresi __160__ saattir. 
 
 ## Ders Günleri ve Saatleri
-Dersler __Cumartesi - Pazar__ günleri saat __09:30 – 13:30__ saatleri arasında __4__'er saat olarak yapılacaktır.
++ Dersler __Cumartesi - Pazar__ günleri saat __09:30 – 13:30__ saatleri arasında __4__'er saat olarak yapılacaktır.
 
 ## Eğitim İçeriği
 __[Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/CSD-1993/Online-.NET-Core-FullStack-Backend-FrontEnd-Uygulama-Gelistirme-Kursu-26-Nisan-2025/blob/main/kurs_icerigi.md)__
 
 ## Eğitmen
-Kurs __Aykut TAŞDELEN__ tarafından verilmektedir. 2002 yılından beridir sektörde eğitmenlik ve danışmanlık yapan Taşdelen, kurucusu olduğu QuantumLojik isimli firmada elektronik ve gömülü sistemler alanında faaliyet göstermektedir. 7 yıl boyunca özel bir üniversitede çeşitli lisans dersleri vermiştir. Halen profesyonel yazılımcılara yönelik kurumsal eğitimler vermektedir. Şimdiye dek 12 kitabı yayınlanmış olan Taşdelen, geçmişte 7 yıl Microsoft’tan üst üste MVP ödülü ve unvanı ile taltif edilmiştir. Aynı zamanda bilişim basını mensubu olan Taşdelen geçmişte PCWorld dergisinde yazarlık yapmış, halen ortağı olduğu TeknolojiDergisi.net haber portalı ve kanalında yayıncılık faaliyetlerini de sürdürmektedir. 
++ Kurs __Aykut TAŞDELEN__ tarafından verilmektedir. 2002 yılından beridir sektörde eğitmenlik ve danışmanlık yapan Taşdelen, kurucusu olduğu QuantumLojik isimli firmada elektronik ve gömülü sistemler alanında faaliyet göstermektedir. 7 yıl boyunca özel bir üniversitede çeşitli lisans dersleri vermiştir. Halen profesyonel yazılımcılara yönelik kurumsal eğitimler vermektedir. Şimdiye dek 12 kitabı yayınlanmış olan Taşdelen, geçmişte 7 yıl Microsoft’tan üst üste MVP ödülü ve unvanı ile taltif edilmiştir. Aynı zamanda bilişim basını mensubu olan Taşdelen geçmişte PCWorld dergisinde yazarlık yapmış, halen ortağı olduğu TeknolojiDergisi.net haber portalı ve kanalında yayıncılık faaliyetlerini de sürdürmektedir. 
 Eğitim, danışmanlık ve/veya proje geliştirdiği kurumlar arasında aşağıdaki kurumlar yer almaktadır:
 [Tübitak],
 [Siemens],
