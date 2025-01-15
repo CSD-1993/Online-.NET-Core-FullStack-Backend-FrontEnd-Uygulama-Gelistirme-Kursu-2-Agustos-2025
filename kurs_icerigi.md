@@ -147,3 +147,7 @@
 *Angular Material Component’leri
 
 *ve diğerleri.
+
+# Kursa Kayıt
+[Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.]()
+
