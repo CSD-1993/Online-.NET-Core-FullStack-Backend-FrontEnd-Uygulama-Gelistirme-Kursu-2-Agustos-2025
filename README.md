@@ -1,7 +1,7 @@
-# Online.NET Core FullStack Backend  FrontEnd Uygulama Gelistirme Kursu 5 Temmuz 2025
+# Online.NET Core FullStack Backend  FrontEnd Uygulama Gelistirme Kursu 2 Ağustos 2025
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ iş birliği ile düzenlenmektedir.
-+ Kurs __5 Temmuz 2025__ tarihinde başlayacaktır.
++ Kurs __2 Ağustos 2025__ tarihinde başlayacaktır.
 + Kurs eğitmeni __Aykut Taşdelen__'dir.
 + __Kurs gerçek zamanlıdır.__ Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
 + Toplam kurs süresi  __160__ saattir. 
