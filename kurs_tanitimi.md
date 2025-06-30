@@ -87,13 +87,13 @@ Eğitim, danışmanlık ve/veya proje geliştirdiği kurumlar arasında aşağı
 + Öğrenciler kaçırdıkları dersleri ders tarihini izleyen 3 gün içinde kendilerine verilecek şifre ile _Vimeo_ üzerinden izleyebilirler.
 
 ## Eğitim Materyalleri
-+ __.NET Core FullStack Backend + FrontEnd__ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile _github ve dropbox_ üzerinden paylaşılmaktadır.
++ __.NET Core FullStack (Backend + FrontEnd)__ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile _github ve dropbox_ üzerinden paylaşılmaktadır.
 
 ## Eğitim Ücreti
 + Kursumuzun toplam ücreti __KDV dahil 32.000 TL__'dir (Peşin ödemede __28.000 TL__’dir). Öğrenciler için kurs ücreti(öğrencilik durumunu belgelemeleri kaydıyla) __KDV dahil 28.000 TL__'dir (Peşin ödemede __24.000 TL__ ’dir). Kurs ücreti peşin ya da __3 taksit__ olarak ödenebilir
 
 ## Sık Sorulan Sorular
-+ __.NET Core FullStack Backend + FrontEnd__ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/Online-.NET-Core-FullStack-Backend-FrontEnd-Uygulama-Gelistirme-Kursu-26-Nisan-2025/blob/main/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan __[_Aykut TAŞDELEN_ ile iletişime geçebilir](https://www.linkedin.com/in/aykuttasdelen/)__ ya da bir __[e-posta mesajı gönderebilirsiniz](mailto:aykuttasdelen@csystem.org)__
++ __.NET Core FullStack (Backend + FrontEnd)__ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/Online-.NET-Core-FullStack-Backend-FrontEnd-Uygulama-Gelistirme-Kursu-26-Nisan-2025/blob/main/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan __[_Aykut TAŞDELEN_ ile iletişime geçebilir](https://www.linkedin.com/in/aykuttasdelen/)__ ya da bir __[e-posta mesajı gönderebilirsiniz](mailto:aykuttasdelen@csystem.org)__
 
 ## Eğitim Programına Kayıt
 + [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us06web.zoom.us/meeting/register/nKMLiPOpQYyam29teFdCWw#/registration)
