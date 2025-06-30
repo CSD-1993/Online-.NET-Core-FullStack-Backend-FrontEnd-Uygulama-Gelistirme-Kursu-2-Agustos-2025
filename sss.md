@@ -1,4 +1,4 @@
-# Online.NET Core FullStack Backend FrontEnd Uygulama Gelistirme Kursu – Sık Sorulan Sorular
+# Online.NET Core FullStack Backend + FrontEnd Uygulama Gelistirme Kursu – Sık Sorulan Sorular
 
 Aşağıda __Aykut TAŞDELEN__ tarafından verilen _Online.NET Core FullStack Backend-FrontEnd Uygulama Gelistirme Kursu_ ile ilgili katılımcıların çok sık sorduğu sorular yer alıyor. Bu sayfa okuyuculardan yeni sorular geldikçe güncellenmektedir.
 
