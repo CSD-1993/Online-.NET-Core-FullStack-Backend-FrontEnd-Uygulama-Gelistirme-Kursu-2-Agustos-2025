@@ -87,7 +87,7 @@ Eğitim, danışmanlık ve/veya proje geliştirdiği kurumlar arasında aşağı
 + Öğrenciler kaçırdıkları dersleri ders tarihini izleyen 3 gün içinde kendilerine verilecek şifre ile _Vimeo_ üzerinden izleyebilirler.
 
 ## Eğitim Materyalleri
-+ __.NET-Core-FullStack-Backend + FrontEnd__ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile _github ve dropbox_ üzerinden paylaşılmaktadır.
++ __.NET Core FullStack Backend + FrontEnd__ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile _github ve dropbox_ üzerinden paylaşılmaktadır.
 
 ## Eğitim Ücreti
 + Kursumuzun toplam ücreti __KDV dahil 32.000 TL__'dir (Peşin ödemede __28.000 TL__’dir). Öğrenciler için kurs ücreti(öğrencilik durumunu belgelemeleri kaydıyla) __KDV dahil 28.000 TL__'dir (Peşin ödemede __24.000 TL__ ’dir). Kurs ücreti peşin ya da __3 taksit__ olarak ödenebilir
